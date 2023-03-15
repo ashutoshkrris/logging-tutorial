@@ -1,0 +1,5 @@
+2023-03-15 12:37:47,235 | my_logger | DEBUG : A Debug Message
+2023-03-15 12:37:47,235 | my_logger | INFO : An Info Message
+2023-03-15 12:37:47,236 | my_logger | WARNING : A Warning Message
+2023-03-15 12:37:47,236 | my_logger | ERROR : An Error Message
+2023-03-15 12:37:47,236 | my_logger | CRITICAL : A Critical Message
